@@ -1,0 +1,29 @@
+#body{
+	
+}
+
+#div1{
+	text-align: center;
+}
+
+#div-a{
+	width:49%;
+	height:auto;
+	margin:5% 0% 10% -5%;
+    padding:0;
+    display:inline-block;
+}
+
+#div-a img{
+	width:400px;
+	height:400px;
+}
+
+#div-b{
+	width:30%;
+	height:auto;
+	text-align:center;
+	margin:5% 10% 10% -10%;
+    padding:0;
+    display:inline-block;
+}
